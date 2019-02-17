@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BesiegeConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ShadowsEnabled>true</ShadowsEnabled>
+  <ShadowRes>VeryHigh</ShadowRes>
+  <ShadowCascades>0</ShadowCascades>
+  <ShadowRenderDistance>350</ShadowRenderDistance>
+  <ScreenSpaceAmbientOcclusion>true</ScreenSpaceAmbientOcclusion>
+  <SSAOQuality>Medium</SSAOQuality>
+  <SSAOIntensity>100</SSAOIntensity>
+  <AntiAliasingMode>FXAA3Console</AntiAliasingMode>
+  <Tooltips>true</Tooltips>
+  <DepthOfField>true</DepthOfField>
+  <Vignette>true</Vignette>
+  <Bloom>true</Bloom>
+  <BloomIntensity>100</BloomIntensity>
+  <FieldOfView>72.8</FieldOfView>
+  <UIScale>100</UIScale>
+  <WindowedMode>true</WindowedMode>
+  <ScreenWidth>1920</ScreenWidth>
+  <ScreenHeight>1200</ScreenHeight>
+  <FPSLock>Lock60</FPSLock>
+  <SmoothCamera>true</SmoothCamera>
+  <FirstTimePlaying>false</FirstTimePlaying>
+  <ShownLanguageWarningFor />
+  <BloodEnabled>false</BloodEnabled>
+  <SkinsEnabled>true</SkinsEnabled>
+  <MorePrecisePhysics>false</MorePrecisePhysics>
+  <AdvancedBuilding>true</AdvancedBuilding>
+  <PlayerName>UNKNOWN PLAYER</PlayerName>
+  <Language>Chinese</Language>
+  <LevelEditorEnabled>true</LevelEditorEnabled>
+  <ExcludeDefaultSaveData>true</ExcludeDefaultSaveData>
+  <MasterserverIP>ms.spiderlinggames.co.uk</MasterserverIP>
+  <MasterserverPort>23466</MasterserverPort>
+  <FacilitatorIP>ms.spiderlinggames.co.uk</FacilitatorIP>
+  <FacilitatorPort>61111</FacilitatorPort>
+  <ConnectiontesterIP>ms.spiderlinggames.co.uk</ConnectiontesterIP>
+  <ConnectiontesterPort>10737</ConnectiontesterPort>
+  <PortForwardingTimeout>1.5</PortForwardingTimeout>
+  <PunchThroughTimeout>10</PunchThroughTimeout>
+  <HostResolveTimeout>2</HostResolveTimeout>
+  <ReconnectTimeout>1</ReconnectTimeout>
+  <MaxReconnectAttempts>5</MaxReconnectAttempts>
+  <ConsoleKey>`</ConsoleKey>
+  <MaximumTransmissionUnit>1480</MaximumTransmissionUnit>
+  <ShowTutorialWindows>true</ShowTutorialWindows>
+  <Region>EUCentral</Region>
+  <EnableAnalytics>true</EnableAnalytics>
+  <AnalyticsNoticeShown>true</AnalyticsNoticeShown>
+  <MusicEnabled>true</MusicEnabled>
+  <MasterVolume>100</MasterVolume>
+  <EffectVolume>0</EffectVolume>
+  <MusicVolume>100</MusicVolume>
+  <TextureQuality>3</TextureQuality>
+  <AnisoFilter>Enable</AnisoFilter>
+  <ShowDebugLogs>false</ShowDebugLogs>
+  <ShowLogFrameNumber>false</ShowLogFrameNumber>
+  <AdditionalModsDirectories />
+</BesiegeConfig>
